@@ -1,0 +1,33 @@
+html, body {
+    background: url(imageback.jfif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color : #9cf;
+color : #000;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+form {
+border : 1px solid #000;
+padding : 5px;
+}
+.formContainer {
+        position: relative;
+        margin: 8% auto;
+        min-height: 60%;
+        width: 100%;
+        box-shadow: 0 2px 16px rgba(0, 0, 0, 0.6);
+        background: white;
+        padding: 0px 0px 90px 15px;
+        box-sizing: border-box;
+     
